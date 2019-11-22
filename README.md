@@ -1,5 +1,5 @@
-# Solutions to Collar and Daniell's First year Latin
+# Collar and Daniell's First Year Latin -- Solutions
 
 Revised by Thorton Jenkins, 1918
 
-[PDF](https://archive.org/details/collardaniellsfi00collrich/page/n6)
+[Full PDF of Textbook](https://archive.org/details/collardaniellsfi00collrich/page/n6)
