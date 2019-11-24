@@ -2,7 +2,7 @@
 
 ## 30
 
-1. Nauta cantant
+1. Nauta cantant.
 
 (The) sailor sings.
 
@@ -10,7 +10,7 @@
 
 (The) sailors sing.
 
-3. Agricola labōrat
+3. Agricola labōrat.
 
 (The) farmer works.
 
@@ -26,7 +26,7 @@
 
 (The) girls swim.
 
-7. Cornēlia appropinquat
+7. Cornēlia appropinquat.
 
 Cornelia approaches.
 
@@ -34,11 +34,11 @@ Cornelia approaches.
 
 Are (the) girls approaching?
 
-9. Cornēlia et puellae cantant
+9. Cornēlia et puellae cantant.
 
 Cornelia and (the) girls sing.
 
-10. Iūlia labōrat et cantat
+10. Iūlia labōrat et cantat.
 
 Julia works and sings.
 
@@ -58,11 +58,11 @@ Who is walking?
 
 1. The sailor is swimming.
 
-Nauta natat
+Nauta natat.
 
 2. The girls are singing.
 
-Puellae cantant
+Puellae cantant.
 
 3. Who approaches?
 
@@ -78,12 +78,12 @@ Cantatne Cornēlia?
 
 6. Cornelia and Julia are walking and singing.
 
-Cornēlia et Iūlia ambulant et cantant
+Cornēlia et Iūlia ambulant et cantant.
 
 7. The girl sings, and the farmer works.
 
-Puella cantat et agricola laborat
+Puella cantat et agricola laborat.
 
-8. Sailors and farmers are working. 
+8. Sailors and farmers are working.
 
-Nautae et agricolae laborant
+Nautae et agricolae laborant.
