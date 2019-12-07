@@ -2,25 +2,25 @@
 
 ## 46
 
-1. Dēlectat, fugāmus liberas.
+1. Dēlectat, fugāmus, liberas.
 
-He is pleased, we are routing, you are freed.
+He pleases, we are routing, you set free.
 
 2. Exspectāmus, portant, dēlectās.
 
-We are waiting, they are carrying, you are pleased.
+We are waiting, they are carrying, you are please.
 
 3. Dēlectāmus, fugātis, liberant.
 
-We please, you (all) are routing, they are freed.
+We please, you (all) are routing, they free.
 
 4. Liberatne? liberō, portāmus.
 
-Is he freed? I free, we carry.
+Does he set free? I free, we carry.
 
 5. Fīliās incolārum liberant.
 
-The town's daughters are freed.
+(The) daughters of the inhabitants set free.
 
 6. Poētae, fortūna rēginam dēlectat.
 
