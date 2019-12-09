@@ -50,11 +50,11 @@ Convocō nautas reginae.
 
 2. The poets' daughters love the land.
 
-Poetārum fīliae adorant terra.
+Poetārum fīliae adorant terram.
 
 3. Whose daughter are you setting free?
 
-Cuius fīliam liberō?
+Cuius fīliam liberās?
 
 4. Do they praise Galba's daughter?
 
@@ -66,4 +66,4 @@ Exspectāmus agricolas.
 
 6. Whom does the fortune of the farmers delight?
 
-Cuius agricolārum fortuna delectat?
+Quem agricolārum fortuna delectat?
