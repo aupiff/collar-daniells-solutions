@@ -20,7 +20,7 @@ Are (they) scaring the girls?
 
 5. Quem vident?
 
-Who sees?
+Who do they see?
 
 6. Monēmus et docēmus.
 
@@ -36,11 +36,11 @@ I now see the booty.
 
 9. Tubam vidētis.
 
-You(all) see the trumpet.
+You see the trumpet.
 
 10. Agricolāsne monētis?
 
-Are you(all) advising the farmers?
+Are you advising the farmers?
 
 11. Litterās habent.
 
@@ -98,11 +98,11 @@ Docetne puellas?
 
 7. Do Cornelia and Julia look at the pirate?
 
-Spectantne, Cornelia et Iūlia, piratam?
+Spectantne Cornelia et Iūlia piratam?
 
 8. Why do the pirates frighten the inhabitants?
 
-Cūr piratae terrentne incōlās?
+Cūr piratae terrent incōlās?
 
 9. They have the money and the booty.
 
@@ -114,4 +114,4 @@ Laudāmus feminam quod docet fīliās.
 
 11. What do you see? What are you looking at?
 
-Quid videō? Quid spectō?
+Quid vidēs? Quid spectās?
