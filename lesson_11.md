@@ -1,6 +1,6 @@
 # Lesson XI excercise solutions
 
-## 96 
+## 96
 
 "CORNELIA ET IULIA"
 
@@ -12,9 +12,9 @@ Cornelia and Julia are small girls.
 
 Where do they live?
 
-3. Nōn in Graeciā, sed clārō in oppidō Italiae habitant. 
+3. Nōn in Graeciā, sed clārō in oppidō Italiae habitant.
 
-Not in Greece, but they live in the famous Italian city.
+Not in Greece, but they live in a famous town of Italy.
 
 4. Incolae Rōmae sunt.
 
@@ -22,7 +22,7 @@ They are inhabitants of Rome.
 
 5. Italia patria Rōmanōrum est.
 
-The Roman's native land is Italy.
+Italy is the native land of the Romans.
 
 6. Rōma viās lātās et templa magna habet.
 
@@ -30,11 +30,11 @@ Rome has wide streets and a great temple.
 
 7. Rōmānī bella amant et probant.
 
-Romans love and approve of war.
+Romans love and approve of wars.
 
 8. Poētae filia est Cornēlia.
 
-Cornelia is the poet's daughter.
+The poet's daughter is Cornelia.
 
 9. Poēta lātis in hortis saepe ambulat.
 
@@ -42,7 +42,7 @@ The poet often walks in the wide garden.
 
 10. Atque dē bellō longō et fugā incolārum Germāniae cantat quod victōriam Rōmānōrum probat.
 
-Especially, he sings of the long war and the German inhabitants' flight because of the Roman's effective victory.
+And also he sings of the long war and of the flight of the inhabitants of Germany because he approves of the victory the Romans.
 
 11. Iūlia filia agricolae validī est.
 
@@ -58,11 +58,11 @@ The farmer's horses carry food and grain.
 
 14. Servī agricolae equīs aquam dant.
 
-The farmer's servants gives the horses water.
+The farmer's slavess give the horses water.
 
 15. Iūlia equōs amat et servōs laudat.
 
-Julia loves the horses and praises the servants.
+Julia loves the horses and praises the slaves.
 
 16. Bonus dominus est agricola.
 
@@ -70,32 +70,46 @@ The kind master is a farmer.
 
 17. Mārcus et Galba, tribūni, amīcī puellārum sunt.
 
-Tribunes, Marcus and  Galba, are the girls friends.
+Marcus and  Galba, the tribunes, are the friends of the girls.
 
 18. Mārcus poētae amicus est et fābulās grātās Cornēliae fēminam dēlectat.
 
-Marcus is the poet's friend and delights Cornelias woman with welcome stories.
+Marcus is of friend of the poet and tells pleasing stories to Cornelia.
 
-19. In hortō poētae puellās convocat et fābulās nārrat.
+19. Galba Iūliae silvās et īnsulās ōceanī dēmōnstrat.
 
-In the poet's garden, he brings the girls together and tells them stories.
+Galba shows Julia the woods and the islands of the ocean.
 
-20. Fābulae dē bellō puellās parvās terrent.
+20. Fēmina bona puellās docet.
 
-The little girls are terrified with stories of war.
+The good woman teaches the girls.
 
-21. Saepe Vestae dōna parant.
+21. Diligentia Cornēliae fēminam dēlectat.
 
-Often, they prepare Vesta's gifts.
+The care of Cornelia delights the women.
 
-22. Quis est Vesta?
+22. In hortō poētae puellās convocat et fābulās nārrat.
 
-Who is Vests?
+He summons the girls of the poet in the garden and tells stories.
 
-23. Vesta dea Rōmānōrum est et templum habet.
+23. Fābulae dē bellō puellās parvās terrent.
 
-Vesta is a Roman goddess and has a temple.
+The stories of war scare the little girls.
 
-24. Saepe in viīs Rōmae puellae ambulant et praedam Germāniae et Britanniae spectant.
+24. Saepe Vesta dōna parant.
 
-Often the girls walk on Roman roads and Germans and Britons see booty.
+Often gifts are prepared for Vesta.
+
+25. Quis est Vesta?
+
+Who is Vesta?
+
+26. Vesta dea Rōmānōrum est et templum habet.
+
+Vesta is a godess of the Romans and she has a temple.
+
+27. Saepa in viīs Rōmae puellae ambulant et praedam Germåniae et Britanniae
+    spectant.
+
+Often girls walk in the streets of Rome and look at the booty of Germany and
+Britain.
