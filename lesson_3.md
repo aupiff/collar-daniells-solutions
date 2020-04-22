@@ -8,7 +8,7 @@ He walks, he calls together, he sings.
 
 2. Convocantne? cantantne? laudantne?
 
-Do they call together? do they sing? do the praise?
+Do they call together? do they sing? do they praise?
 
 3. Natās, labōrās, ambulās.
 
@@ -50,23 +50,23 @@ What do you give now?
 
 1. I swim, he swims, I am swimming.
 
-Nato, natat, nato.
+Natō, natat, natō.
 
 2. Are you working? we sing, does she praise?
 
-Laborasne? cantamus, laudatne?
+Labōrāsne? cantāmus, laudatne?
 
 3. They are approaching, they give, you walk.
 
-Appropinquant, dant, ambulas.
+Appropinquant, dant, ambulās.
 
 4. You are praising, they swim, he does labor.
 
-Laudas, nautant, laborat.
+Laudās, nautant, labōrat.
 
 5. We call together the inhabitants, but you call together the sailors.
 
-Incolas convocamus sed nautas convocatis.
+Incolās convocāmus sed nautās convocātis.
 
 6. The girls are now looking at the water.
 
