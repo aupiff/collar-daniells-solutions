@@ -30,7 +30,7 @@ Who shows the man the road?
 
 The battle is long and the allies wait for help.
 
-8. In agrō labōrant vir et fīliī nūnti.
+8. In agrō labōrant vir et fīliī nūntī.
 
 The man and the sons of the messenger are working in the field.
 
@@ -42,15 +42,15 @@ Why do you give the men rewards now?
 
 1. The son of the messenger is a small boy.
 
-Fīlius nuntī puer parvus est.
+Fīlius nūntī puer parvus est.
 
 2. We see your sword, but we have not your javelin.
 
-Gladium tuum videmus sed pilum tuum non habemus.
+Gladium tuum vidēmus sed pīlum tuum nōn habēmus.
 
 3. They frighten the little boys and the woman.
 
-Puerōs parvōs et feminam terrant.
+Puerōs parvōs et fēminam terrent.
 
 4. The men are putting the allies to flight.
 
@@ -58,7 +58,7 @@ Virī sociōs fugant.
 
 5. Where do the messengers live?
 
-Ubi nuntī habitant?
+Ubi nuntiī habitant?
 
 6. I have my son's sword.
 
@@ -66,4 +66,4 @@ Gladium fīlī meī habeo.
 
 7. Wars and battles delight the Romans.
 
-Bella proeliaque Romanōs gratant.
+Bella proeliaque Rōmānōs gratant.
