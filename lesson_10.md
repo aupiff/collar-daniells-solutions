@@ -4,7 +4,7 @@
 
 1. Galba agricola est.
 
-Galba is (a) farmer.
+Galba is a farmer.
 
 2. Galba est validus.
 
@@ -62,11 +62,11 @@ Viae oppidī longae sunt.
 
 2. The streets of Rome were not broad.
 
-Viae Romae non latae erant.
+Viae Rōmae nōn lātae erant.
 
 3. The roads of Britain are broad and long.
 
-Viae Britanniae latae et longae sunt.
+Viae Britanniae lātae et longae sunt.
 
 4. Where are you?
 
@@ -74,7 +74,7 @@ Ubi es?
 
 5. The new gifts of the tribune are pleasing.
 
-Dona nova tribunae grāta sunt.
+Dōna nova tribūnī grāta sunt.
 
 6. We praise the gods because they give gifts.
 
