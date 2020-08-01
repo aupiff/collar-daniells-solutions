@@ -74,7 +74,7 @@ Erō, erimus.
 
 4. Is he a tribune? They are allies.
 
-Estne tribunus? Socіī.
+Estne tribunus? Socіī sunt.
 
 5. Meanwhile you will be a free man.
 
