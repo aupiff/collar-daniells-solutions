@@ -49,3 +49,41 @@ This example of virtue saved Rome.
 Hodie facta Horati laudamus.
 
 Today we praise the deeds of Horatius.
+
+## 202
+
+Hispania et Gallia et Germania erant nationes Europae.
+
+Spain and Gaul and Germany were tribes of Europe.
+
+Proxima oceano erat Hispania. 
+
+Spain was close to the ocean.
+
+Galli inter Hispaniam et Germaniam,GermanI trans Rhenum incolebant. 
+
+The gauls dwelled between Spain and Germany, the Germans across the Rhine.
+
+German!paucos vlcos etiam in Gallia habebant. 
+
+At the time, the Germans had few villages in Gaul.
+
+Quod eae nationes hostes erant, Roman! cum Hispanls et Gallis et Germanis saepe pugnaverunt.
+
+BEcause these nations were enemies, the Romans often fought with the SPanish, the Gauls and the Germans.
+
+Inter Galliam et mare erat nova provincia Romae.
+
+Between Gaul and the sea was a new province of Rome.
+
+Incolae eius provinciae iniurias Gallorum diu sustinuerunt. 
+
+The inhabitants of this province sustained for a long time the damage of the Gauls.
+
+Tandem ab Romanis auxilium postulaverunt ; nam Helvetios finitimos mag- nopere timebant. 
+
+Finally they demanded help from the Romans, for they were greatly scared of the neighboring Helvetians.
+
+Helvetii non solum provinciae sed etiam Ger- manis inimici erant et cum Germanis cotidianis fere proeliis contendebant.
+
+The Helvetians were not only unfriendly to the province but also to the Germans, and with the Germans struggled almost daily in battles.
