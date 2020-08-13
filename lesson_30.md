@@ -38,7 +38,7 @@ Do you find? You found, you found.
 
 I found, he finds, he found.
 
-## 215. 
+## 215
 
 1. He has found, they have found, they came. 
 
@@ -68,10 +68,9 @@ Veniēbit, vēnit, audiunt.
 
 Dēfendent, oppugnāvērunt, defendit.
 
-## 216. 
+## 216 CONLOQUIUM
 
-CONLOQUIUM
-Marcus. Hodie fabulam de Porsena et Horatio audlvi.
+Marcus: Hodie fabulam de Porsena et Horatio audlvi.
 
 Marcus: Today I heard the story about Porsena and Horatius
 
@@ -79,7 +78,7 @@ Iulia: Quis fuit Porsena? Romanusne erat ?
 
 Julia: Who was Porsena? Was he a Roman?
 
-Marcus. Porsena, rex nobilis, Romanorum hostis olim fuit. Cum Militibus audacious in finis R5man5rum venit, et urbem Romam oppugnabat.
+Marcus: Porsena, rex nobilis, Romanorum hostis olim fuit. Cum Militibus audacious in finis R5man5rum venit, et urbem Romam oppugnabat.
 
 Marcus: Porsena, a noble king, once was an enemy of the Romans. With bold soldiers he came to the territory of the Romans and attacked the Roman city.
 
@@ -89,25 +88,20 @@ Julia: Did the Romans flee from the danger?
 
 Marcus: Magnum erat perlculum urbis et clvium, quod hostes erant fortes et acres, sed RomanI non fugerunt.
 
-Great was the danger to the city and the citzens, because the enemies were strong and eager, but the Romans did not flee.
+Marcus: Great was the danger to the city and the citzens, because the enemies were strong and eager, but the Romans did not flee.
 
 Iulia: Cepitne Porsena Romam?
 
 Julia: Did Porsena capture Rome?
 
-Marcus. Urbem non cepit, quod virtus validi viri civis defendebat. Paucis cum socils Horatius prourbe fortiter pugnabat.
+Marcus: Urbem non cepit, quod virtus validi viri civis defendebat. Paucis cum socils Horatius prourbe fortiter pugnabat.
 
-He did not capture the city, because the virtue of the strong man defended the citzens. With few allies, Horatius fought strongly for the city.
+Marcus: He did not capture the city, because the virtue of the strong man defended the citzens. With few allies, Horatius fought strongly for the city.
 
-Iulia: Diune ho'stes sustinuit Horatius?
+Iulia: Diune hostēs sustinuit Horātius?
 
-Did Horatius hold back the enemies for a long time?
+Julia: Did Horatius hold back the enemies for a long time?
 
+Marcus: Non diu, quod hostes erant multl, et multa plla iaciebant. Tandem trans flumen ad socios natavit. Rōmānī Horatium ob eam virtutem laudaverunt.
 
-
-
-Marcus. Non diu, quod hostes erant multl, et multa plla
-iaciebant. Tandem trans flumen ad socios natavit. RomanI Horatium oB earn virtutem laudaverunt.
-
-Not for a long time, because there were many enemies, and they were throwing many javelins. Finally, he swam across the river to the allies. The romans praised Horatius for his virtue.
-
+Marcus: Not for a long time, because there were many enemies, and they were throwing many javelins. Finally, he swam across the river to the allies. The romans praised Horatius for his virtue.
