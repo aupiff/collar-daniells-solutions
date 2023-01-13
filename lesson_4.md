@@ -36,7 +36,7 @@ Is Galba's daughter waiting for a letter?
 
 9. Etiam tubae nautārum incolās fugant.
 
-Meanwhile, the sailors' horns put the island to flight.
+Meanwhile, the sailors' horns put the inhabitants to flight.
 
 10. Cuius litterās portās?
 
@@ -50,7 +50,7 @@ Convocō nautas reginae.
 
 2. The poets' daughters love the land.
 
-Poetārum fīliae adorant terram.
+Poetārum fīliae terram amant.
 
 3. Whose daughter are you setting free?
 
@@ -66,4 +66,4 @@ Exspectāmus agricolas.
 
 6. Whom does the fortune of the farmers delight?
 
-Quem agricolārum fortuna delectat?
+Quem fortuna agricolārum delectat?
