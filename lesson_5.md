@@ -106,7 +106,7 @@ Cūr piratae incōlās terrent?
 
 9. They have the money and the booty.
 
-Habent pecuniam et praedam.
+Pecuniam et praedam habent.
 
 10. We praise the woman because she teaches the girls.
 
