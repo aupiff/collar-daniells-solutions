@@ -52,7 +52,7 @@ Julia teaches the poet's daughter.
 
 13. Etiam pecūniam agricolārum habent pirātae.
 
-The pirates even hold the farmers' town.
+The pirates even hold the farmers' money.
 
 14. Fīliārum fortūna fēminam dēlectat.
 
@@ -94,7 +94,7 @@ Vidēmus.
 
 6. Does he teach the girls?
 
-Docetne puellas?
+Docetne puellās?
 
 7. Do Cornelia and Julia look at the pirate?
 
