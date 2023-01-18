@@ -110,7 +110,7 @@ Pecuniam et praedam habent.
 
 10. We praise the woman because she teaches the girls.
 
-Laudāmus feminam quod fīliās docet.
+Laudāmus feminam quod puellās docet.
 
 11. What do you see? What are you looking at?
 
