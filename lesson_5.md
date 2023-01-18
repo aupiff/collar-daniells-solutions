@@ -102,7 +102,7 @@ Spectantne Cornelia et Iūlia piratam?
 
 8. Why do the pirates frighten the inhabitants?
 
-Cūr piratae terrent incōlās?
+Cūr piratae incōlās terrent?
 
 9. They have the money and the booty.
 
